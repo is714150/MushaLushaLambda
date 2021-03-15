@@ -6,4 +6,4 @@ Requerimientos funcionales:
 - Capaz de mandar la URL de la imagen al API de Discord
 
 Requerimientos no funcionales:
-- Conexión estable con el API de busqueda en Google
+- Conexión estable con el API de búsqueda en Google
